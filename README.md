@@ -55,7 +55,6 @@ This dashboard serves as a powerful tool for retail businesses by enabling users
      - Profitability: `Sum([Profitability])`
      - Average Discount: `Average([Discount])`
 
-<img width="595" alt="{ECE3E144-C41F-4115-AF2A-FB030D0895DE}" src="https://github.com/user-attachments/assets/27f44c87-bf60-4248-ba82-d27dba17ceb2">
 
 3. **Building the KPI Table**
    - Add a table showcasing critical KPIs with symbols:
@@ -85,22 +84,24 @@ This dashboard serves as a powerful tool for retail businesses by enabling users
 ### Important KPIs
 - Dynamic KPI table that provides a quick overview of key business metrics such as total sales, profit, and order counts.
 
+  <img width="600" alt="{ECE3E144-C41F-4115-AF2A-FB030D0895DE}" src="https://github.com/user-attachments/assets/27f44c87-bf60-4248-ba82-d27dba17ceb2">
+
 ### Charts and Visualizations
 - **Segment, Category, and Market Analysis Charts** providing a clear view of performance across multiple dimensions.
-- 
-  <img width="406" alt="{E0B88899-8EB4-4995-A95B-76B799D27438}" src="https://github.com/user-attachments/assets/aae23156-4039-4d4d-af93-7f956cc8b0d3">
+
+  <img width="600" alt="{E0B88899-8EB4-4995-A95B-76B799D27438}" src="https://github.com/user-attachments/assets/aae23156-4039-4d4d-af93-7f956cc8b0d3">
 
 - **Top 5 and Bottom 5 Performance** charts for focused insights into best and worst-performing categories.
-- 
-  <img width="296" alt="{8FC67086-1466-4DFF-B3CD-55920B6613F1}" src="https://github.com/user-attachments/assets/025dfc88-c1d1-4863-bfd0-d64b7ce15382">
+ 
+  <img width="600" alt="{8FC67086-1466-4DFF-B3CD-55920B6613F1}" src="https://github.com/user-attachments/assets/025dfc88-c1d1-4863-bfd0-d64b7ce15382">
 
 - **World Map Visualization** showcasing geographic sales distribution.
-- 
-  <img width="224" alt="{86BB4039-4284-4EDE-9AF8-01A48EDBDB12}" src="https://github.com/user-attachments/assets/f9919f0b-cd0f-445a-b773-fac3448ba4dc">
+
+  <img width="600" alt="{86BB4039-4284-4EDE-9AF8-01A48EDBDB12}" src="https://github.com/user-attachments/assets/f9919f0b-cd0f-445a-b773-fac3448ba4dc">
 
 - **Market Share by Region Chart** indicating market dominance and performance in specific regions.
-- 
-  <img width="157" alt="{589F3199-4829-45C9-9375-B0AECC32E4AD}" src="https://github.com/user-attachments/assets/608bd139-a51a-4a33-8c9c-375fac89b6f1">
+
+  <img width="600" alt="{589F3199-4829-45C9-9375-B0AECC32E4AD}" src="https://github.com/user-attachments/assets/608bd139-a51a-4a33-8c9c-375fac89b6f1">
 
 
 
