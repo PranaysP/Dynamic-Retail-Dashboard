@@ -93,15 +93,15 @@ This dashboard serves as a powerful tool for retail businesses by enabling users
 
 - **Top 5 and Bottom 5 Performance** charts for focused insights into best and worst-performing categories.
  
-  <img width="500" alt="{8FC67086-1466-4DFF-B3CD-55920B6613F1}" src="https://github.com/user-attachments/assets/025dfc88-c1d1-4863-bfd0-d64b7ce15382">
+  <img width="300" alt="{8FC67086-1466-4DFF-B3CD-55920B6613F1}" src="https://github.com/user-attachments/assets/025dfc88-c1d1-4863-bfd0-d64b7ce15382">
 
 - **World Map Visualization** showcasing geographic sales distribution.
 
-  <img width="300" alt="{86BB4039-4284-4EDE-9AF8-01A48EDBDB12}" src="https://github.com/user-attachments/assets/f9919f0b-cd0f-445a-b773-fac3448ba4dc">
+  <img width="350" alt="{86BB4039-4284-4EDE-9AF8-01A48EDBDB12}" src="https://github.com/user-attachments/assets/f9919f0b-cd0f-445a-b773-fac3448ba4dc">
 
 - **Market Share by Region Chart** indicating market dominance and performance in specific regions.
 
-  <img width="400" alt="{589F3199-4829-45C9-9375-B0AECC32E4AD}" src="https://github.com/user-attachments/assets/608bd139-a51a-4a33-8c9c-375fac89b6f1">
+  <img width="300" alt="{589F3199-4829-45C9-9375-B0AECC32E4AD}" src="https://github.com/user-attachments/assets/608bd139-a51a-4a33-8c9c-375fac89b6f1">
 
 
 
