@@ -93,7 +93,7 @@ This dashboard serves as a powerful tool for retail businesses by enabling users
 
 - **Top 5 and Bottom 5 Performance** charts for focused insights into best and worst-performing categories.
  
-  <img width="300" alt="{8FC67086-1466-4DFF-B3CD-55920B6613F1}" src="https://github.com/user-attachments/assets/025dfc88-c1d1-4863-bfd0-d64b7ce15382">
+  <img width="500" alt="{8FC67086-1466-4DFF-B3CD-55920B6613F1}" src="https://github.com/user-attachments/assets/025dfc88-c1d1-4863-bfd0-d64b7ce15382">
 
 - **World Map Visualization** showcasing geographic sales distribution.
 
@@ -101,7 +101,7 @@ This dashboard serves as a powerful tool for retail businesses by enabling users
 
 - **Market Share by Region Chart** indicating market dominance and performance in specific regions.
 
-  <img width="200" alt="{589F3199-4829-45C9-9375-B0AECC32E4AD}" src="https://github.com/user-attachments/assets/608bd139-a51a-4a33-8c9c-375fac89b6f1">
+  <img width="400" alt="{589F3199-4829-45C9-9375-B0AECC32E4AD}" src="https://github.com/user-attachments/assets/608bd139-a51a-4a33-8c9c-375fac89b6f1">
 
 
 
@@ -116,7 +116,7 @@ This dashboard serves as a powerful tool for retail businesses by enabling users
 
 The Dynamic Retail Dashboard empowers businesses with actionable insights for optimized decision-making. By offering a comprehensive view of critical metrics, user-friendly visuals, and interactivity, it enables businesses to track performance, identify trends, and make data-driven decisions to enhance profitability and customer satisfaction.
 
-<img width="484" alt="image" src="https://github.com/user-attachments/assets/e8a204c5-4731-4f5c-ad8c-44a98063780e">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/e8a204c5-4731-4f5c-ad8c-44a98063780e">
 
 
 
